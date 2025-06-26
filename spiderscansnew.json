@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Tachiyomi: Spider Scans (new)",
+    "pkg": "eu.kanade.tachiyomi.extension.en.spiderscansnew",
+    "apk": "tachiyomi-en.spiderscans-v1.4.42.apk",
+    "lang": "en",
+    "code": 42,
+    "version": "1.4.42",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Spider Scans (new)",
+        "lang": "en",
+        "id": "22408694755381921340",
+        "baseUrl": "https://spiderscans.xyz"
+      }
+    ]
+  }
+]
